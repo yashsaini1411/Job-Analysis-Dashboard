@@ -60,57 +60,57 @@ Visualizations:
 
 - City-wise job and salary analysis
 
-2. Company & Role Insights
+2.Company & Role Insights
 
 Analyzes company-wise hiring activity and job role characteristics.
 
 Key Features:
 
-Company-wise job distribution by experience level
+- Company-wise job distribution by experience level
 
-Job titles compared with total job counts and experience levels
+- Job titles compared with total job counts and experience levels
 
-Company ratings versus average ratings
+- Company ratings versus average ratings
 
-Remote work ratio compared with average salary by job title
+- Remote work ratio compared with average salary by job title
 
-Business Value: Helps identify hiring patterns across companies and compare job roles based on salary, experience requirements, and remote work opportunities.
+- Business Value: Helps identify hiring patterns across companies and compare job roles based on salary, experience requirements, and remote work opportunities.
 
-3. Location Insights
+3.Location Insights
 
 Explores the geographical distribution of AI and ML job opportunities and salary differences across locations.
 
 Key Features:
 
-Country-wise job distribution
+- Country-wise job distribution
 
-Country-wise job counts and average salary
+- Country-wise job counts and average salary
 
-Geographical job distribution using map visualization
+- Geographical job distribution using map visualization
 
-Region-wise average salary by experience level
+- Region-wise average salary by experience level
 
-Filters for region, experience level, and year-month
+- Filters for region, experience level, and year-month
 
-Business Value: Helps identify geographical hiring hotspots and compare salary opportunities across countries and regions.
+- Business Value: Helps identify geographical hiring hotspots and compare salary opportunities across countries and regions.
 
-4. Skill & Hiring Insights
+4.Skill & Hiring Insights
 
 Focuses on technical skills, hiring requirements, and their relationship with salary and work mode.
 
 Key Features:
 
-Skill usage by experience level
+- Skill usage by experience level
 
-Average skill requirements by experience level
+- Average skill requirements by experience level
 
-Job-wise average salary comparison
+- Job-wise average salary comparison
 
-Skill distribution by work mode
+- Skill distribution by work mode
 
-Experience-level distribution of skill requirements
+- Experience-level distribution of skill requirements
 
-Total distinct skill count
+- Total distinct skill count
 
 Business Value: Helps job seekers identify relevant technical skills and understand how skill requirements vary across experience levels and work arrangements.
 
