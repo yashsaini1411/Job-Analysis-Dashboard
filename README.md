@@ -34,7 +34,7 @@ Data Visualization – Charts, maps, tables, and interactive filters
 
 📈 Dashboard Pages & Features
 
-1. Overview Dashboard
+1.Overview Dashboard
 
 Provides a high-level summary of the AI and ML job market through key performance indicators and visualizations.
 
