@@ -118,17 +118,17 @@ Business Value: Helps job seekers identify relevant technical skills and underst
 
 Based on the dashboard visualizations:
 
-Salary analysis: The report compares average and median salaries to provide a broader understanding of compensation in AI and ML roles.
+- Salary analysis: The report compares average and median salaries to provide a broader understanding of compensation in AI and ML roles.
 
-Experience-level comparison: Entry-level, mid-level, and senior positions can be analyzed to understand salary differences and job distribution.
+- Experience-level comparison: Entry-level, mid-level, and senior positions can be analyzed to understand salary differences and job distribution.
 
-Skill demand: Technical skills such as Python, SQL, Machine Learning, Deep Learning, Cloud Computing, NLP, and TensorFlow are included in the skill analysis.
+- Skill demand: Technical skills such as Python, SQL, Machine Learning, Deep Learning, Cloud Computing, NLP, and TensorFlow are included in the skill analysis.
 
-Geographical opportunities: The location report compares job availability and average salaries across countries, regions, and cities.
+- Geographical opportunities: The location report compares job availability and average salaries across countries, regions, and cities.
 
-Work flexibility: Remote, hybrid, and on-site job arrangements are analyzed to understand work-mode distribution.
+- Work flexibility: Remote, hybrid, and on-site job arrangements are analyzed to understand work-mode distribution.
 
-Company and role comparison: The dashboard allows users to explore differences in hiring activity, company ratings, and job characteristics.
+- Company and role comparison: The dashboard allows users to explore differences in hiring activity, company ratings, and job characteristics.
 
 Note: Findings are based on the dataset used in this project. The dashboard's results should not be interpreted as a complete representation of the entire AI and ML job market.
 
@@ -161,54 +161,48 @@ Skill & Hiring Insights
 
 ⚙️ How to Use the Project
 
-Clone or download this repository.
+1. Clone or download this repository.
 
-Download and install Microsoft Power BI Desktop.
+2. Download and install Microsoft Power BI Desktop.
 
-Open the .pbix file in Power BI Desktop.
+3. Open the .pbix file in Power BI Desktop.
 
-If prompted, connect to or update the dataset source.
+4. If prompted, connect to or update the dataset source.
 
-Refresh the data if required.
+5. Refresh the data if required.
 
-Use the interactive filters and visuals to explore job market trends.
+6. Use the interactive filters and visuals to explore job market trends.
 
 💡 Skills Demonstrated
 
-Data Cleaning and Transformation
+- Data Cleaning and Transformation
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Data Modeling
+- Data Modeling
 
-DAX Measures and Calculations
+- DAX Measures and Calculations
 
-KPI Development
+- KPI Development
 
-Interactive Dashboard Design
+- Interactive Dashboard Design
 
-Salary and Job Market Analysis
+- Salary and Job Market Analysis
 
-Geographic Data Visualization
+- Geographic Data Visualization
 
-Business Intelligence and Data Storytelling
+- Business Intelligence and Data Storytelling
 
 🚀 Future Improvements
 
-Add salary comparisons by specific skills and job titles.
+* Add salary comparisons by specific skills and job titles.
 
-Analyze salary trends over time.
+* Analyze salary trends over time.
 
-Include additional job market datasets for broader comparisons.
+* Include additional job market datasets for broader comparisons.
 
-Develop more detailed remote-versus-on-site salary analysis.
+* Develop more detailed remote-versus-on-site salary analysis.
 
-Add advanced filters for company, skills, country, and experience level.
-
-👨‍💻 Author
-
-Yash Saini
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+* Add advanced filters for company, skills, country, and experience level.
 
 ⭐ If you find this project useful, consider giving the repository a star!
