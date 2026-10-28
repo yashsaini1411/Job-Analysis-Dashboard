@@ -36,29 +36,29 @@ Data Visualization – Charts, maps, tables, and interactive filters
 
 1. Overview Dashboard
 
-Provides a high-level summary of the AI and ML job market through key performance indicators and visualizations.
-
-Key Metrics:
-
-Total Jobs
-
-Average Salary
-
-Average Salary by Experience
-
-Median Salary
-
-Remote Jobs Percentage
-
-Visualizations:
-
-Monthly job posting trends
-
-Experience-level distribution
-
-Job postings by experience level
-
-City-wise job and salary analysis
+  Provides a high-level summary of the AI and ML job market through key performance indicators and visualizations.
+  
+  Key Metrics:
+  
+  Total Jobs
+  
+  Average Salary
+  
+  Average Salary by Experience
+  
+  Median Salary
+  
+  Remote Jobs Percentage
+  
+  Visualizations:
+  
+  Monthly job posting trends
+  
+  Experience-level distribution
+  
+  Job postings by experience level
+  
+  City-wise job and salary analysis
 
 2. Company & Role Insights
 
