@@ -134,26 +134,26 @@ Note: Findings are based on the dataset used in this project. The dashboard's re
 
 🖼️ Dashboard Preview
 
-Overview Dashboard
+1. Overview Dashboard
 
 <p align="center">
   <img src="Images/Overview.png" width="900"/>
 </p>
 
-Company & Role Insights
+2. Company & Role Insights
 
 <p align="center">
   <img src="Images/Company & Role Insight.png" width="900"/>
 </p>
 
 
-Location Insights
+3. Location Insights
 
 <p align="center">
   <img src="Images/Location Insight.png" width="900"/>
 </p>
 
-Skill & Hiring Insights
+4. Skill & Hiring Insights
 
 <p align="center">
   <img src="Images/Skill & Hiring Insight.png" width="900"/>
